@@ -1,4 +1,4 @@
-# AI Email Automation n8n
+## AI Email Automation with n8n
 
 This project automates lead collection and email workflows using n8n.
 
@@ -17,12 +17,7 @@ Project screenshots are available in this repository.
 - Webhooks
 - CRM
 ## Workflow
-
-1. User submits lead form
-2. Webhook receives data
-3. Lead is processed
-4. CRM is updated
-5. Automated email is sent
+Lead Form → Webhook → n8n Workflow → Airtable CRM → Automated Email Response
 
 ## Tools Used
 
